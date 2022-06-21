@@ -1,4 +1,4 @@
 - 👋 Hi, my name is Camila Garcia;
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning Typescript
 
 
